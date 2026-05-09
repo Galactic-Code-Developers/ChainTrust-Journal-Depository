@@ -1,0 +1,20 @@
+# KAS Audit Log — ChainTrust Journal Depository
+
+This file records certified publication package entries for ChainTrust Journal records.
+
+Format:
+
+[YYYY-MM-DDTHH:MM:SSZ]
+Report ID: <audit_id>
+Title: <publication_title>
+Category: <publication_category>
+Service Type: <service_type>
+PDF: <pdf_filename>
+SHA256: <sha256_hash>
+Signer ID: <signer_id>
+User Email: <user_email>
+GitHub Repository: Galactic-Code-Developers/ChainTrust-Journal-Depository
+GitHub Path: <github_tree_path>
+Publication Status: <publication_status>
+Destination: ChainTrust Journal / Kapodistrian Academy of Science / GitHub-Zenodo
+Publication Site: Kapodistrian.edu.gr

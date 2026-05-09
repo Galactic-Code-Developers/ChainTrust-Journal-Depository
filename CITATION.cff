@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "ChainTrust Journal Depository"
+message: "If you use or reference records from this repository, please cite the relevant Zenodo DOI for the specific GitHub release."
+type: dataset
+authors:
+  - family-names: "Valamontes"
+    given-names: "Antonios"
+    affiliation: "Kapodistrian Academy of Science"
+repository-code: "https://github.com/Galactic-Code-Developers/ChainTrust-Journal-Depository"
+url: "Kapodistrian.edu.gr"
+abstract: "Dedicated GitHub-Zenodo publication depository for ChainTrust Journal blockchain whitepapers, audit reports, NovaNet Sentinel reports, code validation reports, technical insights, and security analysis records."
+keywords:
+  - blockchain
+  - smart contracts
+  - audit reports
+  - security analysis
+  - EVM
+  - Solidity
+  - NovaNet Sentinel
+  - ChainTrust Journal
+license: MIT

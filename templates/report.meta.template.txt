@@ -1,0 +1,21 @@
+Title: {publication_title}
+Category: {publication_category}
+Report Type: {service_type}
+Author(s): {authors}
+Institution: Kapodistrian Academy of Science
+Engine: NovaNet Sentinel Engine
+Journal/Repository: ChainTrust Journal
+Publication Site: Kapodistrian.edu.gr
+GitHub Repository: Galactic-Code-Developers/ChainTrust-Journal-Depository
+GitHub Path: {github_tree_path}
+Contract Name: {contract_name}
+Chain Name: {chain_name}
+Chain ID: {chain_id}
+Contract Address: {contract_address}
+Report ID: {audit_id}
+SHA-256: {sha256_hash}
+Generated At: {timestamp}
+Signer ID: {signer_id}
+Subject Area: Monetary and finances
+License: {publication_license}
+Disclaimer: Publication through ChainTrust Journal / GitHub-Zenodo does not certify that a smart contract is free from vulnerabilities.
